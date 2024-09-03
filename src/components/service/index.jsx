@@ -7,7 +7,7 @@ import CardArea from "../../common/card-area";
 import SalesArea from "../../common/sales-area";
 import TestimonialArea from "../../common/testimonial-area";
 import CtaArea from "../contact/cta-area";
-import FaqArea from "../homes/home-2/faq-area";
+// import FaqArea from "../homes/home-2/faq-area";
 import ServiceArea from "./service-area";
 
 const Service = () => {
