@@ -5,7 +5,7 @@ import HeaderSix from "@/layout/headers/header-6";
 import React from "react";
 import Brand from "../about/brand";
 import CtaArea from "../contact/cta-area";
-import FaqArea from "../homes/home-2/faq-area";
+// import FaqArea from "../homes/home-2/faq-area";
 import PlanArea from "./plan-area";
 import PriceArea from "./price-area";
 
